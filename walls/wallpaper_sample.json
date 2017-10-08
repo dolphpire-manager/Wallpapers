@@ -6,24 +6,62 @@
             },
             {
                 "name": "Abstract"
+            },
+            {
+                "name": "Nature"
             }
         ],
     
 	"Wallpapers":
         [
 			{
-				"author": "Sweet Ice Cream Photography",
-				"url": "https://unsplash.it/5472/3648?image=1083",
-				"thumbUrl": "https://unsplash.it/400/200?image=1083",
-				"name": "Ceningan island, Indonesia",
+				"author": "Grigor Teodor",
+				"url": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/ball_cubes_metal_blue_red_reflection_97785_1920x1080.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/ball_cubes_metal_blue_red_reflection_97785_1920x1080.jpg",
+				"name": "Metal Ball, Blue, Red, Cubes, Reflection",
                 "category": "3D"
 			},
-            {
-				"author": "Samuel Zeller",
-				"url": "https://unsplash.it/4835/3223?image=1076",
-				"thumbUrl": "https://unsplash.it/400/200?image=1076",
-				"name": "London",
-                "category": "3D, Abstract"
+			{
+				"author": "Grigor Teodor",
+				"url": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/balloon_flight_plant_91681_1920x1080.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/balloon_flight_plant_91681_1920x1080.jpg",
+				"name": "Water Drop, Transparent, Baloon, Flight, Plant",
+                "category": "3D, Nature"
+			},
+			{
+				"author": "Grigor Teodor",
+				"url": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/chess_board_party_glass_68393_1920x1080.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/chess_board_party_glass_68393_1920x1080.jpg",
+				"name": "Chess, Blue, Glass",
+                "category": "3D"
+			},
+			{
+				"author": "Grigor Teodor",
+				"url": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/cube_fire_dark_light_alloy_36536_1920x1080.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/cube_fire_dark_light_alloy_36536_1920x1080.jpg",
+				"name": "Cubde, Red, Black, Fire, Dark",
+                "category": "3D"
+			},
+			{
+				"author": "Grigor Teodor",
+				"url": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/cube_square_green_black_space_8670_1920x1080.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/cube_square_green_black_space_8670_1920x1080.jpg",
+				"name": "Cubde, Square, Green, Black, Space",
+                "category": "3D"
+			},
+			{
+				"author": "Grigor Teodor",
+				"url": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/cubes_shape_glow_background_85043_1920x1080.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/cubes_shape_glow_background_85043_1920x1080.jpg",
+				"name": "Cubes, Shape, Glow",
+                "category": "3D"
+			},
+			{
+				"author": "Grigor Teodor",
+				"url": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/dolls_many_people_smile_88090_1920x1080.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/dolphpire/Wallpapers/master/walls/3d/dolls_many_people_smile_88090_1920x1080.jpg",
+				"name": "Many Dolls, People, Smile",
+                "category": "3D"
 			}
 		]
 }
